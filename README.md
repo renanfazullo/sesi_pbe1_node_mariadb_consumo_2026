@@ -68,4 +68,4 @@ Os testes foram realizados utilizando o Insomnia, verificando as operações de 
 
 ### Resumo da Média de Consumo
 
-![Resumo do consumo](./backend_energia/docs/resumo_consumo.png)
+![Resumo do consumo](./backend_energia/docs/resumo.png)
